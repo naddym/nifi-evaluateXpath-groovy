@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<employees>
+    <employee>
+        <name>
+            <firstname>Mohammed</firstname>
+            <middlename></middlename>
+            <lastname>Nadeem</lastname>
+        </name>
+        <dob>XXXXXX</dob>
+        <ssn>naddybot</ssn>
+        <address>XXXXX</address>
+    </employee>
+    <employee>
+        <name>
+            <firstname>Mr</firstname>
+            <middlename></middlename>
+            <lastname>Thin</lastname>
+        </name>
+        <dob>XXXXXX</dob>
+        <ssn>12345</ssn>
+        <address>XXXXX</address>
+    </employee>
+    <employee>
+        <name>
+            <firstname>Mr</firstname>
+            <middlename></middlename>
+            <lastname>Fat</lastname>
+        </name>
+        <dob>XXXXXX</dob>
+        <ssn>naddybot</ssn>
+        <address>43251</address>
+    </employee>
+</employees>
